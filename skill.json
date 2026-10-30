@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-last-mile-carrier-on-time-service-level-agreement-auditor-skill",
+  "version": "1.0.0",
+  "title": "Last-Mile Carrier On-Time SLA & Guaranteed Refund Auditor Skill",
+  "category": "Agentic Commerce (Carrier SLAs & Refunds)",
+  "description": "Audits parcel carrier delivery timestamps against contractual SLA commitments, classifies weather exceptions vs operational carrier delays, and generates Guaranteed Service Refund (GSR) filings.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "audit_carrier_on_time_sla_refund"
+  ],
+  "dependencies": []
+}
